@@ -1,0 +1,5 @@
+[network]
+proxy = 
+timeout = 15
+retries = 2
+delay = 1.0

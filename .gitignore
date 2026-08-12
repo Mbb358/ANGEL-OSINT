@@ -1,0 +1,16 @@
+# Python мусор
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+*.spec
+
+# ANGEL — приватные данные
+angel_config.ini
+angel_history.db
+
+# IDE
+.vscode/
+.idea/
